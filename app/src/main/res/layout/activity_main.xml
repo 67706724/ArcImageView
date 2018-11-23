@@ -6,10 +6,10 @@
     <cn.aipiti.arcimageview.ArcImageView
         android:layout_width="match_parent"
         android:layout_height="220dp"
-        app:arcHeight="80dp"
+        app:arcHeight="60dp"
         android:scaleType="centerCrop"
         app:bColor="@color/white"
         app:mDirection="inner"
-        app:mPosition="bottom"
+        app:mPosition="right"
         android:src="@drawable/user"/>
 </LinearLayout>
