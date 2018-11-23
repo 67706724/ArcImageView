@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <cn.aipiti.arcimageview.ArcImageView
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        app:arcHeight="80dp"
+        android:scaleType="centerCrop"
+        app:bColor="@color/white"
+        app:mDirection="inner"
+        app:mPosition="bottom"
+        android:src="@drawable/user"/>
+</LinearLayout>
