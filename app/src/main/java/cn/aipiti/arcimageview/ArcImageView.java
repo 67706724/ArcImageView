@@ -14,7 +14,7 @@ import android.util.AttributeSet;
  * 项目名称：ArcImageView
  * 类名称：ArcImageView
  * 类描述：实现图片上下左右弧形、弧形方向可向内、向外
- * 创建人：蔡海亭
+ * 创建人：aipiti.cn
  *    QQ：67706724
  * 创建时间：2018年11月23日上午10:43:17
  * 修改人：
