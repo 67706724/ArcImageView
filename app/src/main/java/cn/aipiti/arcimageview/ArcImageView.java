@@ -87,6 +87,7 @@ public class ArcImageView extends android.support.v7.widget.AppCompatImageView {
         super.onDraw(canvas);
         //画笔
         mPaint.setStyle(Paint.Style.FILL);
+        mPaint.setFlags(Paint.ANTI_ALIAS_FLAG);
         mPaint.setColor(mBColor);
         RectF rectF;//方形
         Path path = new Path();

@@ -22,5 +22,13 @@
             <enum name="bottom" value="3"/>
         </attr>
     </declare-styleable>
+    
+    <declare-styleable name="CircleImageView">
+        <attr name="bColor" format="color"/>
+        <attr name="howMuch" format="enum">
+            <enum name="circle" value="0"/>
+            <enum name="oval" value="1"/>
+        </attr>
+    </declare-styleable>
 
 </resources>
